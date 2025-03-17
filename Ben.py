@@ -13,9 +13,9 @@ import ollama
 
 
 # Windows
-path = os.path.dirname(os.path.abspath(__file__)) + "\\Auto-WPeGPT_WPeace\\"
+path = os.path.dirname(os.path.abspath(__file__)) + "\\Auto-Ben\\"
 # MacOS
-#path = os.path.dirname(os.path.abspath(__file__)) + "/Auto-WPeGPT_WPeace/"
+#path = os.path.dirname(os.path.abspath(__file__)) + "/Auto-Ben/"
 sys.path.append(path)
 import Auto_WPeGPT
 # Whether to use Chinese explanation code.
